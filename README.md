@@ -1,2 +1,2 @@
 # Geospatial-visualizations
-Resources for making maps in Python (geopandas, rioxarray, leaflet) and R (ggplot2)
+Beginner's examples of simple geospatial visualizations in Python (geopandas, rioxarray, leaflet) and R (ggplot2)
