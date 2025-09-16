@@ -7,7 +7,6 @@ library(data.table)
 library(rgdal)
 library(broom)
 
-setwd('~/OneDrive/Documents/00 CVs/00 Jobs 22-23/Stanford ECHO lab/programming-assessment-2022')
 
 # ------------- Task 1 ---------------------
 # 1. First convert the dataset from ʻwideʼ (each observation is a mother) to ʻlongʼ (each observation is a birth, with associated mother id). This will make the following tasks a lot easier. Write out the reshaped (i.e. `longʼ) version of the dataset to MotherData_reshaped_[your last name]
